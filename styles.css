@@ -1,0 +1,42 @@
+*{
+	margin :0px;
+	padding: 0px;
+	font-family: Arial;
+	font-size: 20px;
+}
+
+.contenedor{
+	margin: auto;
+	width: 400px;
+	height: 400px;
+	background-color:grey;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+}
+
+.rojo{
+	background-color: red;
+}
+
+.amarillo{
+	background-color: yellow;
+}
+.verde{
+	background-color: green;
+}
+
+
+.negro{
+	background-color: black;
+	color:white;
+}
+
+.gris{
+	background-color: grey;
+}
+
+.azul{
+	background-color: blue;
+}
+
